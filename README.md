@@ -1,1 +1,1 @@
-# zdravkovic-conjecture
+# Digit_Sum_Primality_Conjecture
